@@ -6,8 +6,8 @@ public class Cheer {
         System.out.println("Java");
     }
 
-    public void Cheer (String string) {
-        System.out.println(string);
+    public void Cheer (String parameter) {
+        System.out.println(parameter);
     }
 
 }
