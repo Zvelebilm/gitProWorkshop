@@ -8,7 +8,9 @@ public class Cheer {
 
 
     public void Cheer (String parameter) {
+
         System.out.println(parameter);
+
     }
 
 }
