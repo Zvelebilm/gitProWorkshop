@@ -1,7 +1,7 @@
 public class MyClass {
 <<<<<<< HEAD
     public  void greet(){
-        System.out.println("Greetings");
+        System.out.println("Greetings greetings");
 =======
     public  void greet(String text){
         System.out.println("Marek Zvelebil"+text);
