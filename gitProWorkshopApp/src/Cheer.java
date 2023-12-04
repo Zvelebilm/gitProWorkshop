@@ -1,12 +1,11 @@
 public class Cheer {
 
 
-    public Cheer(){
+    public void Cheer() {
         System.out.println("Java");
+    }
 
-
-    public Cheer(String string){
+    public void Cheer (String string){
         System.out.println(string);
-
     }
 }
