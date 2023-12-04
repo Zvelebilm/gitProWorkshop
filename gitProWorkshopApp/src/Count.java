@@ -1,13 +1,14 @@
 public class Count {
 
-    private int age = 26;
-    private String sentence = " years old.";
 
-    public void count() {
+    private int parameter2 = 26;
 
-        System.out.println(age + sentence);
 
-        System.out.println("5");
+    public void count(int parameter2) {
+
+
+        System.out.println("Counting the countless " + parameter2);
+
 
     }
 }
