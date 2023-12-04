@@ -5,8 +5,8 @@ public class MyClass {
         System.out.println("Greetings greetings");
     }
 
-    public void greet(String text) {
-        System.out.println("Marek Zvelebil" + text);
+    public void greet(String text,int number) {
+        System.out.println("Marek Zvelebil" + text+number);
 
     }
 }
