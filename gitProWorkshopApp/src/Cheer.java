@@ -1,6 +1,7 @@
 public class Cheer {
 
-    public Cheer(){
-        System.out.println("Cheer gitProWorkshop team");
+
+    public Cheer(String string){
+        System.out.println(string);
     }
 }
